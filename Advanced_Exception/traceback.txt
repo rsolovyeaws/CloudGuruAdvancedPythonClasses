@@ -1,0 +1,5 @@
+  File "C:\Users\Kseniia_Obukhova\Downloads\Robert\Python\Advanced Perspective of Classes and OOP\Advanced_Exception\exception_chaining.py", line 20, in explicit_nested
+    explicit_chaining()
+
+  File "C:\Users\Kseniia_Obukhova\Downloads\Robert\Python\Advanced Perspective of Classes and OOP\Advanced_Exception\exception_chaining.py", line 16, in explicit_chaining
+    raise ValueError("unexpected value") from err

@@ -1,0 +1,5 @@
+  File "C:\Users\Kseniia_Obukhova\Downloads\Robert\Python\Advanced Perspective of Classes and OOP\Advanced_Exception\exception_chaining.py", line 33, in <module>
+    explicit_nested()
+
+  File "C:\Users\Kseniia_Obukhova\Downloads\Robert\Python\Advanced Perspective of Classes and OOP\Advanced_Exception\exception_chaining.py", line 23, in explicit_nested
+    stacktrace = format_stack()
